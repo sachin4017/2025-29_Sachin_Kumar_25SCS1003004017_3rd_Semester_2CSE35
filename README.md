@@ -62,11 +62,11 @@ The workflow includes **data preparation, preprocessing, similarity calculation,
 
 The project uses graph-based techniques such as **Louvain community detection and modularity evaluation**.
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 ├── Documentation/
-│   ├── Internship_Report.pdf
-│   └── Internship_Presentation.pdf
+│   ├── Sachin_Kumar_Internship_Report.pdf
+│   └── Sachin_Kumar_Internship_Presentation.pdf
 │
 ├── Certificates/
 │   ├── Offer_Letter.pdf
@@ -75,9 +75,13 @@ The project uses graph-based techniques such as **Louvain community detection an
 ├── Project/
 │   ├── Dataset/
 │   ├── Notebooks/
+│   ├── Data_Preprocessing/
+│   ├── Graph_Construction/
+│   ├── Community_Detection/
 │   └── Results/
 │
 └── README.md
+
 
 ## 📚 Learning Outcomes
 
