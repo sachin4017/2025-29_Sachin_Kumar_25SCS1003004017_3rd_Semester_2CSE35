@@ -62,25 +62,7 @@ The workflow includes **data preparation, preprocessing, similarity calculation,
 
 The project uses graph-based techniques such as **Louvain community detection and modularity evaluation**.
 
-📁 Repository Structure
 
-├── Documentation/
-│   ├── Sachin_Kumar_Internship_Report.pdf
-│   └── Sachin_Kumar_Internship_Presentation.pdf
-│
-├── Certificates/
-│   ├── Offer_Letter.pdf
-│   └── Completion_Certificate.pdf
-│
-├── Project/
-│   ├── Dataset/
-│   ├── Notebooks/
-│   ├── Data_Preprocessing/
-│   ├── Graph_Construction/
-│   ├── Community_Detection/
-│   └── Results/
-│
-└── README.md
 
 
 ## 📚 Learning Outcomes
@@ -92,7 +74,25 @@ The project uses graph-based techniques such as **Louvain community detection an
 - Python-based project development
 - Technical documentation
 - Git and GitHub
+📁 Repository Structure
 
+├── Documentation/
+│   ├── Sachin_Kumar_Internship_Report.pdf       # Complete Internship Report
+│   └── Sachin_Kumar_Internship_Presentation.pdf # Presentation Deck
+│
+├── Certificates/
+│   ├── Offer_Letter.pdf                          # Internship Offer Letter
+│   └── Completion_Certificate.pdf                # Internship Completion Certificate
+│
+├── Project/
+│   ├── Dataset/                                  # Project Dataset
+│   ├── Notebooks/                                # Jupyter Notebooks
+│   ├── Data_Preprocessing/                       # Data Cleaning & Preparation
+│   ├── Graph_Construction/                      # Habitat Graph Construction
+│   ├── Community_Detection/                     # Habitat Cluster Detection
+│   └── Results/                                  # Analysis & Visualizations
+│
+└── README.md                                     # Repository Overview
 ## 🚀 Future Enhancements
 
 - Use verified ecological datasets
