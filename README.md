@@ -8,135 +8,116 @@
 ![Language](https://img.shields.io/badge/Language-Python-green.svg)
 ![Project](https://img.shields.io/badge/Project-Habitat%20Clustering-brightgreen.svg)
 
-# Data Science & Machine Learning Internship
+# Data Science & Machine Learning Virtual Internship
 
-**Project:** Applying Community Detection to Find Habitat Clusters  
-**Domain:** Data Science & Machine Learning  
-**Organization:** upSkill Campus / UniConverge Technologies  
-**Internship Mode:** Online  
-**Duration:** 25 July 2026 – 25 August 2026  
+**AICTE – Virtual Internship Program | Supported by UniConverge Technologies & upSkill Campus**
+
+This repository contains my internship report, presentation, and completion credentials for the **Data Science & Machine Learning** track of the internship program (July – August 2026).
 
 ---
 
-## 📌 Project & Student Overview
+## 👤 Student Details
 
-This repository contains the complete documentation, project report, presentation, internship certificates, offer letter, and project-related learning artifacts for the Data Science & Machine Learning Internship.
-
-### Student Details
-
-**Student Name:** Sachin Kumar  
-**University Roll No.:** 25SCS1003004017  
-**Academic Program:** B.Tech in Computer Science and Engineering (CSE)  
-**Semester / Section:** 3rd Semester | 2CSE35  
-**Batch:** 2025 – 2029  
-**Institution:** IILM University, Greater Noida  
-**Domain:** Data Science and Machine Learning  
-**Internship Period:** 25 July 2026 – 25 August 2026  
+| **Field** | **Details** |
+| --------- | ----------- |
+| **Name** | Sachin Kumar |
+| **Roll Number** | 25SCS1003004017 |
+| **Institute** | IILM University, Greater Noida, U.P. |
+| **Programme** | B.Tech CSE, Batch 2025–2029 |
+| **Internship Domain** | Data Science & Machine Learning |
+| **Duration** | 25 July 2026 – 25 August 2026 |
 
 ---
 
-## 🎯 Project Background & Objectives
+## 📌 About the Internship
 
-The project focuses on applying graph analytics and community detection techniques to identify naturally connected habitat clusters.
+The internship focused on building a practical foundation in **Data Science and Machine Learning**, including data preparation, data analysis, graph analytics, community detection, visualization, and project implementation.
 
-Habitat locations are represented as nodes in a graph, while relationships between habitats are represented as weighted edges based on similarity or connectivity. The workflow covers data preparation, preprocessing, graph construction, community detection, visualization, and evaluation.
-
-### Key Project Objectives
-
-- Prepare and analyze a structured habitat dataset.
-- Represent habitat locations as nodes in a graph.
-- Create meaningful weighted relationships between habitats.
-- Apply community detection techniques to identify habitat clusters.
-- Visualize the detected communities.
-- Evaluate clusters using modularity, community size, and connectivity.
-- Develop a reproducible Python-based workflow for graph-based habitat analysis.
+As part of the internship, I worked on the project **“Applying Community Detection to Find Habitat Clusters”**, which focuses on identifying naturally connected groups of habitat locations using graph-based techniques.
 
 ---
 
-## 🔬 Project Methodology
+## 🎯 Objectives
 
-The project follows an end-to-end analytical workflow:
-
-**Data Preparation → Preprocessing → Similarity Calculation → Graph Construction → Community Detection → Evaluation → Visualization**
-
-The methodology includes:
-
-1. **Dataset Preparation** – Loading, inspecting, and preparing habitat observations.
-2. **Data Preprocessing** – Handling missing values, duplicates, and feature scaling.
-3. **Similarity Calculation** – Defining relationships between habitat observations.
-4. **Graph Construction** – Creating habitat nodes and weighted edges.
-5. **Community Detection** – Applying graph-based community detection such as Louvain.
-6. **Evaluation** – Analysing modularity, community size, and connectivity.
-7. **Visualization** – Presenting the detected habitat communities for interpretation.
+- Prepare and analyze a structured habitat dataset
+- Perform data cleaning and preprocessing
+- Represent habitat locations as nodes in a graph
+- Create weighted relationships between habitat locations
+- Apply community detection techniques to identify habitat clusters
+- Visualize the detected communities
+- Evaluate communities using graph-based measures
+- Develop a reproducible Python-based workflow
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🗓️ Project Workflow
 
-- **Python** – Programming and data analysis
-- **Pandas** – Data loading and preprocessing
-- **NumPy** – Numerical operations
-- **NetworkX** – Graph construction and community analysis
-- **Matplotlib** – Data and network visualization
-- **Scikit-learn** – Feature preprocessing and similarity-related analysis
-- **Jupyter Notebook** – Interactive development and experimentation
-- **Git & GitHub** – Version control and project management
-- **VS Code** – Development and project organization
+| **Stage** | **Description** |
+| --------- | --------------- |
+| 1 | Data Preparation |
+| 2 | Data Preprocessing |
+| 3 | Similarity Calculation |
+| 4 | Graph Construction |
+| 5 | Community Detection |
+| 6 | Evaluation |
+| 7 | Visualization & Interpretation |
 
 ---
 
-## 📊 Project Workflow
+## 🛠️ Technologies & Tools
+
+`Python` · `Pandas` · `NumPy` · `NetworkX` · `Matplotlib` · `Scikit-learn` · `Jupyter Notebook` · `Git` · `GitHub` · `VS Code`
+
+---
+
+## 🏆 Certification & Credentials
+
+| **Field** | **Details** |
+| --------- | ----------- |
+| **Certificate Title** | Data Science & Machine Learning Internship |
+| **Internship Domain** | Data Science & Machine Learning |
+| **Duration** | 25 July 2026 – 25 August 2026 |
+| **Student** | Sachin Kumar |
+| **Roll Number** | 25SCS1003004017 |
+
+---
+
+## 📁 Repository Contents
 
 ```text
-Habitat Data
-     ↓
-Preprocessing
-     ↓
-Similarity Calculation
-     ↓
-Graph Construction
-     ↓
-Community Detection
-     ↓
-Habitat Clusters
-     ↓
-Visualization & Interpretation
+├── Internship_Report_Sachin_Kumar.pdf
+├── Internship_Presentation_Sachin_Kumar.pdf
+├── Completion_Certificate.pdf
+├── Offer_Letter.pdf
+└── README.md
 ```
 
 ---
 
-## 📁 Repository Structure
+## 📄 Report Structure
 
-```text
-📁 Repository Structure
-
-├── Documentation/
-│   ├── Internship_Report_of_Sachin_kumar.pdf        # Complete Internship Report
-│   └──Internship_Ppt_of_Sachin_Kumar.pdf            # Presentation Deck
-│
-├── Certificates/
-│   ├── Offer_Letter.pdf                           # Internship Offer Letter
-│   └── Completion_Certificate.pdf                 # Internship Completion Certificate
-|
-│
-└── README.md                                     # Repository Overview
-```
-
-
-## 👨‍💻 Student
-
-**Sachin Kumar**  
-**Roll No.: 25SCS1003004017**  
-**B.Tech CSE | 3rd Semester**  
-**Section: 2CSE35**  
-**Batch: 2025–2029**  
-**IILM University, Greater Noida**
-
-### Final Project
-
-**Applying Community Detection to Find Habitat Clusters**
+1. Candidate's Declaration
+2. Acknowledgement
+3. Internship Completion Certificate
+4. Project Description
+   - 4.1 Introduction
+   - 4.2 Organization Profile
+   - 4.3 Problem Statement
+   - 4.4 Project Objectives
+   - 4.5 Scope of the Project
+   - 4.6 Technologies and Tools Used
+   - 4.7 System Architecture
+   - 4.8 Methodology
+   - 4.9 Expected Outcomes
+   - 4.10 Internship Documentation
+5. Bibliography/References
 
 ---
 
-⭐ **Thank you for visiting this repository!**
-            
+## 🙏 Acknowledgement
+
+Thanks to the **AICTE, UniConverge Technologies, upSkill Campus**, and **IILM University, Greater Noida** for providing the opportunity and support throughout the internship.
+
+---
+
+**Sachin Kumar** · B.Tech CSE · IILM University, Greater Noida
