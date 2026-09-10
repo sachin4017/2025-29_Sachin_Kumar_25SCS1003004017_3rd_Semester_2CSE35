@@ -111,20 +111,13 @@ Visualization & Interpretation
 📁 Repository Structure
 
 ├── Documentation/
-│   ├── Sachin_Kumar_Internship_Report.pdf        # Complete Internship Report
-│   └── Sachin_Kumar_Internship_Presentation.pdf  # Presentation Deck
+│   ├── Internship_Report_of_Sachin_kumar.pdf        # Complete Internship Report
+│   └──Internship_Ppt_of_Sachin_Kumar.pdf            # Presentation Deck
 │
 ├── Certificates/
 │   ├── Offer_Letter.pdf                           # Internship Offer Letter
 │   └── Completion_Certificate.pdf                 # Internship Completion Certificate
-│
-├── Project/
-│   ├── Dataset/                                  # Project Dataset
-│   ├── Notebooks/                                # Jupyter Notebooks
-│   ├── Data_Preprocessing/                       # Data Cleaning & Preparation
-│   ├── Graph_Construction/                      # Habitat Graph Construction
-│   ├── Community_Detection/                     # Habitat Cluster Detection
-│   └── Results/                                  # Analysis & Visualizations
+|
 │
 └── README.md                                     # Repository Overview
 ```
