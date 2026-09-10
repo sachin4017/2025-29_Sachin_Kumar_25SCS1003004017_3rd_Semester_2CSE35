@@ -1,15 +1,12 @@
 # 2025-29_Sachin_Kumar_25SCS1003004017_3rd_Semester_2CSE35
-# 🌿 Applying Community Detection to Find Habitat Clusters
+
+# Data Science & Machine Learning Internship
 
 
 ![Domain](https://img.shields.io/badge/Domain-Data%20Science-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-UpSkill%20Campus-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Python-green.svg)
 ![Project](https://img.shields.io/badge/Project-Habitat%20Clustering-brightgreen.svg)
-
-# 2025-29_Sachin_Kumar_25SCS1003004017_3rd_Semester_2CSE35
-
-Academic repository for 3rd Semester (Batch 2025-29), CSE (2CSE35) by Sachin Kumar (Roll no: 25SCS1003004017). Contains project reports, internship presentation, certificates, and documentation for the Data Science & Machine Learning Internship.
 
 # Data Science & Machine Learning Internship
 
